@@ -36,6 +36,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 =======
-# TiSF-Project
-ACID Properties Demonstration
->>>>>>> e75da113e954e10e6e164ce68deb844d8a5e4378
